@@ -4,4 +4,4 @@ Fall 2023 MathCompBio119 Coursework: MATLAB Coding for Lambda Phage Virus Analys
 
 - mcb_final_2023fall_main.m is the final version of the simulation.
 - mcb_final_2023fall.m is the simpler version without the sidebar of gamma_xt and x0.
-- Others are functions; refer to the headline of codes.
+- Others are functions; refer to the headline of each code.
